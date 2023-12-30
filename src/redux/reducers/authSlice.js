@@ -19,7 +19,7 @@ export const loginUser = createAsyncThunk(
     console.log(userData);
     try {
       const response = await axios.post(
-        "http://localhost:7000/user/login",
+        "https://seeraprint.onrender.com/user/login",
         userData
       );
       localStorage.setItem("seera-token", response.data.data);
@@ -60,7 +60,7 @@ export const registerUser = createAsyncThunk(
   async (userData, { rejectWithValue }) => {
     try {
       const response = await axios.post(
-        "http://localhost:7000/user/register",
+        "https://seeraprint.onrender.com/user/register",
         userData
       );
       return response.data.user;
