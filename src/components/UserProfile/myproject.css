@@ -1,0 +1,32 @@
+.box {
+  border: 1px solid #c4e1c5;
+}
+span.step {
+  border: 3px solid #138ede;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #138ede;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.4em;
+  margin-right: 5px;
+  text-align: center;
+  width: 1.6em;
+}
+.mid-card {
+  border: 4px dotted #000;
+  border-radius: 5px;
+}
+.inner-upload {
+  padding: 57px 57px;
+  align-content: center;
+}
+.inner-img {
+  width: 75%;
+  padding: 0px 40px;
+  margin-left: 20px;
+}
+.inner-img img {
+  width: 100%;
+}

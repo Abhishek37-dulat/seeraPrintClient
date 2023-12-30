@@ -1,0 +1,64 @@
+{
+  "popularquestion": [
+    "Getting Started With Calendars",
+    "My Vista Account",
+
+    "Where are my designs saved?",
+    "What if I'm not happy with my purchase?",
+
+    "What products do you offer?",
+
+    "Where's my order?",
+
+    "Can I cancel my order?",
+
+    "Where are the images I previously uploaded to the VistaPrint site?"
+  ],
+  "helpcenter": {
+    "new": [
+      "Updates to My Account",
+      "Updates to site navigation",
+      "Updates to checkout",
+      "Updates to the design studio",
+      "Updates to our products"
+    ],
+    "order": [
+      "Cancel or Change Order",
+      "Check Order Status",
+      "Billing & Invoices",
+      "Product Quality Problem",
+      "Reordering"
+    ],
+    "ShippingDelivery": [
+      "Tracking My Order",
+      "Rates",
+      "Speeds",
+      "Carriers",
+      "General Shipping & Delivery Information"
+    ],
+    "PlacingMyOrder": ["Payment", "Promotions & Credits"],
+    "MyAccount": [
+      "My Account",
+      "Accessing My Account",
+      "Cancel Account",
+      "Account Information"
+    ],
+    "PricingProductInformation": [
+      "Product Details",
+      "Invitations & Announcements",
+      "Office & Stationery",
+      "Labels & Stickers",
+      "Clothing & Bags"
+    ],
+    "DesigningMyProduct": [
+      "Designing My Calendar",
+      "Getting Started with the Design Studio",
+      "Advanced Editing with the Design Studio",
+      "Designing a Product Box or a Mailer Box",
+      "About Images"
+    ],
+    "DesignServices": ["General Design Services Information"],
+    "Websites": ["Theme"],
+    "DomainsEmailHosting": ["General Email Hosting Information"]
+  }
+}

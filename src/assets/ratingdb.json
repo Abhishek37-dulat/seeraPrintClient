@@ -1,0 +1,20 @@
+{
+  "rating": [
+    {
+      "name": "COMFORT",
+      "rating": 4
+    },
+    {
+      "name": "DURABILITY",
+      "rating": 5
+    },
+    {
+      "name": "FIT",
+      "rating": 3
+    },
+    {
+      "name": "QUALITY",
+      "rating": 5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+.loginwith,
+.inputfield {
+  width: 480px;
+  height: 60px;
+  border-radius: 50px;
+  border: 1px solid gray;
+  background: #fff;
+  color: #000;
+  font-weight: 600;
+}
+@media only screen and (max-width: 820px) {
+  .loginwith {
+    width: 280px;
+    height: 40px;
+  }
+}
+.inputfield {
+  width: 480px;
+  padding: 15px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  font-size: 16px;
+  height: 60px;
+}
+@media only screen and (max-width: 820px) {
+  .inputfield {
+    width: 280px;
+    height: 45px;
+  }
+}
+
+.signin,
+.signup {
+  width: 480px;
+  height: 60px;
+  border-radius: 50px;
+  border: 1px solid gray;
+  background: #fff;
+  color: #000;
+}
+.signin:hover,
+.signup:hover {
+  background: #000;
+  color: #fff;
+}
+@media only screen and (max-width: 820px) {
+  .signin,
+  .signup {
+    width: 280px;
+    height: 45px;
+  }
+}

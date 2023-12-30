@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "productName": "Scott Waterproof Jacket",
+      "productPrice": "1 starting at ₹1,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Custom Adidas® Hoodies",
+      "productPrice": "1 starting at ₹4,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Fleece 1/4-zip Pullover Jackets",
+      "productPrice": "1 starting at ₹5,100.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Puffer Jackets",
+      "productPrice": "1 starting at ₹6,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Winter Jacket - Sleeveless",
+      "productPrice": "1 starting at ₹7,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Scott Waterproof Jacket",
+      "productPrice": "1 starting at ₹8,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Custom Adidas® Hoodies",
+      "productPrice": "1 starting at ₹9,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Fleece 1/4-zip Pullover Jackets",
+      "productPrice": "1 starting at ₹22,100.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Puffer Jackets",
+      "productPrice": "1 starting at ₹23,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    },
+    {
+      "productName": "Winter Jacket - Sleeveless",
+      "productPrice": "1 starting at ₹300,600.00",
+      "productImage": "https://cms.cloudinary.vpsvc.com/image/upload/w_700,c_scale,f_auto,q_auto/India%20LOB/embroidered-clothing/Adidas%20Hoddie/IN_Adidas-Hoodies_Overview_01"
+    }
+  ]
+}
